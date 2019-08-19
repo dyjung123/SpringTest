@@ -1,0 +1,5 @@
+spring:
+  thymeleaf:
+    servlet:
+      content-type: text/html
+    mode: HTML
